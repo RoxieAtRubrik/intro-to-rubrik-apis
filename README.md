@@ -1,6 +1,6 @@
 # Introduction to APIs
 
-Welcome to the Introduction to Rubrik APIs module! This module consists of 4 lessons to help you learn the fundamentals required to interact with REST APIs.
+Welcome to the Introduction to Rubrik APIs module! This module consists of 1 lesson to help you learn the fundamentals required to interact with Rubrik's REST APIs.
 
 ## :pencil: Lessons
 
@@ -10,23 +10,10 @@ To get started, follow the steps outlined in each lesson.
 
 * Exercise can be found [here](Lesson-1.md).
 
-**Lesson 2: TBD**
-
-* Exercise can be found [here](Lesson-2.md).
-
-**Lesson 3: TBD**
-
-* Exercise can be found [here](Lesson-3.md).
-
-**Lesson 4: TBD**
-
-* Exercise can be found [here](Lesson-4.md).
-
 ## :white_check_mark: Prerequisites
 
 There are a few services you'll need in order to get this lab off the ground:
 
-* cURL
 * Access to Rubrik CDM APIs
 
 ## :muscle: How You Can Help

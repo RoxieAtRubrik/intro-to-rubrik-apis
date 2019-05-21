@@ -1,24 +1,24 @@
 # Introduction to APIs
 
-Welcome to the Introduction to APIs module! This module consists of 4 lessons to help you learn the fundamentals required to interact with REST APIs.
+Welcome to the Introduction to Rubrik APIs module! This module consists of 4 lessons to help you learn the fundamentals required to interact with REST APIs.
 
 ## :pencil: Lessons
 
-To get started, follow the steps outlined in each lesson. 
+To get started, follow the steps outlined in each lesson.
 
-**Lesson 1: Getting Started with REST APIs**
+**Lesson 1: Async Requests**
 
 * Exercise can be found [here](Lesson-1.md).
 
-**Lesson 2: Using a REST API to Retrieve Information**
+**Lesson 2: TBD**
 
 * Exercise can be found [here](Lesson-2.md).
 
-**Lesson 3: Retrieving Information for Daily Operations/Tasks**
+**Lesson 3: TBD**
 
 * Exercise can be found [here](Lesson-3.md).
 
-**Lesson 4: Other Useful Tools with REST APIs**
+**Lesson 4: TBD**
 
 * Exercise can be found [here](Lesson-4.md).
 

@@ -10,6 +10,10 @@ To get started, follow the steps outlined in each lesson.
 
 * Exercise can be found [here](Lesson-1.md).
 
+**Lesson 2: API Token**
+
+* Exercise can be found [here](Lesson-2.md).
+
 ## :white_check_mark: Prerequisites
 
 There are a few services you'll need in order to get this lab off the ground:

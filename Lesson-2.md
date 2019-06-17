@@ -40,7 +40,7 @@ The Rubrik REST API Explorer web page opens.
 
 1. Click on the green Authorize button in the upper right corner.
 1. Find the **API Key Authorization** section.
-2. Supply the word `Bearer`, leave a spsace, and then paste the API Token from earlier into the `value` field.
+2. Supply the word `Bearer`, leave a space, and then paste the API Token from earlier into the `value` field.
 3. Click **Authorize**.
 
 ![API Token Manager](img/image2-3.png)

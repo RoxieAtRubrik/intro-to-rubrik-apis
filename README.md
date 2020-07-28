@@ -1,6 +1,8 @@
 # Introduction to Rubrik APIs
 
-Welcome to the Introduction to Rubrik APIs module! This module consists of 2 lessons to help you learn the fundamentals required to interact with Rubrik's REST APIs.
+Welcome to the Introduction to Rubrik APIs module! This module consists of 2 lessons to help you learn the fundamentals required to interact with Rubrik's APIs.
+
+Workshop slides can be found [here](/Getting%20Started%20with%20Rubrik%20APIs.pdf). 
 
 ## :pencil: Lessons
 

@@ -29,7 +29,7 @@ In Google Chrome, use the existing tab with the REST API Explorer. Navigate to t
 
 ![Get VM](img/image1-2.png)
 
-Scroll down to the list of query parameters. Enter the value `windows-2016` into the **name** parameter.
+Scroll down to the list of query parameters. Enter the value `win2016-vm1` into the **name** parameter.
 
 ![Name Filter](img/image1-3.png)
 

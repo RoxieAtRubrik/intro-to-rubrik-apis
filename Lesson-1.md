@@ -35,7 +35,7 @@ Scroll down to the list of query parameters. Enter the value `win2016-vm1` into 
 
 Continue to scroll down to the bottom of the endpoint page and click the **Try it out!** button.
 
-The Response Body should return with a large quantity of JSON formatted data. This contains details on any virtual machines matching the name `windows-2016`. In this case, there is only a single virtual machine matching this name, so only one resource object is returned.
+The Response Body should return with a large quantity of JSON formatted data. This contains details on any virtual machines matching the name `win2016-vm1`. In this case, there is only a single virtual machine matching this name, so only one resource object is returned.
 
 Look through the Response Body to find the `id` value. Record the value. This is the globally unique id value for the virtual machine.
 

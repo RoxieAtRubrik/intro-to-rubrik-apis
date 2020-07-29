@@ -11,12 +11,12 @@ We will then track the status of this request using the async request endpoint u
 
 ## Lesson 1-1: Authentication
 
-In Google Chrome, open a new tab and type `https://$cluster_address/docs/v1/playground`. The node IP information can be found in [Lab Topology](/lab-topology.md).
+In Google Chrome, open a new tab and type `https://$cluster_address/docs/v1/playground`.
 
 The Rubrik REST API Explorer web page opens.
 
 1. Click on the green Authorize button in the upper right corner.
-2. Supply your username and password. Enter the Rubrik CDM credential information found in [Lab Topology](/lab-topology.md).
+2. Supply your username and password.
 3. Click **Authorize**.
 
 ![API Docs](img/image1-1.png)

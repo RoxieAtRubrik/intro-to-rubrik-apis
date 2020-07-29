@@ -9,11 +9,11 @@ In this lab, we will generate an API Token to use for requests to the Rubrik RES
 
 ## Lesson 1-1: Generate an API Token
 
-In Google Chrome, open a new tab and type `https://$cluster_address/`. The node IP information can be found in [Lab Topology](/lab-topology.md).
+In Google Chrome, open a new tab and type `https://$cluster_address/`. 
 
 The Rubrik UI appears with a login prompt.
 
-Log into the UI by entering the username and password provided in the [Lab Topology](/lab-topology.md) and clicking **Sign In**.
+Log into the UI by entering the username and password and clicking **Sign In**.
 
 Once in the UI, click on the **Admin User** link in the upper right corner. Next, choose **API Token Manager**.
 

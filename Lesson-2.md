@@ -34,8 +34,7 @@ A token will be displayed on the screen. Use the **Copy** button to copy the val
 
 ## Lesson 1-2: Using the API Token
 
-In Google Chrome, open a new tab and type `https://$cluster_address/docs/v1/playground`. The node IP information can be found in [Lab Topology](/lab-topology.md).
-
+In Google Chrome, open a new tab and type `https://$cluster_address/docs/v1/playground`.
 The Rubrik REST API Explorer web page opens.
 
 1. Click on the green Authorize button in the upper right corner.
